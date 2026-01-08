@@ -1,0 +1,5 @@
+test_dataset: # Path to test dataset
+artifacts:
+  model: # Path to model artifact
+  # Add more artifacts if needed
+target: # Name of the target column
